@@ -1,0 +1,24 @@
+#navbar {
+    flex-direction: column;
+}
+
+.primary {
+    padding: 0px;
+    font-size: 1.8rem;
+}
+
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 11px;
+
+}
+
+.services {
+    flex-wrap: wrap;
+}
+#Contect-box{
+    margin-left: 0px;
+    justify-content: left;
+    
+  
+    }
